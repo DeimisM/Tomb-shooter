@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BgToxic
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300000, guid: 7c7bd7a9de8c87842a788771b52720d7, type: 3}
-  m_Color: {r: 0, g: 0.9528302, b: 0.017906867, a: 1}
+  m_Color: {r: 0.43529412, g: 0.21568628, b: 0, a: 1}
   m_Transform:
     e00: 1
     e01: 0
